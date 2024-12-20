@@ -9,7 +9,7 @@ private:
 
 public:
     Cidade(std::string nome) : nome(nome) {}
-    std::string getNome() const; // Only declaration here
+    std::string getNome() const; 
 };
 
 #endif
